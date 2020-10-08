@@ -34,7 +34,7 @@ import java.util.Set;
 import java.util.UUID;
 
 public class DeviceList extends AppCompatActivity {
-
+// test
 
     static final int STATE_LISTENING = 1;
     static final int STATE_CONNECTING=2;

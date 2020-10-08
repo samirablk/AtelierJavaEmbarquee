@@ -9,7 +9,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55b59870-f083-4ebe-979c-5cf519578b51" name="Default Changelist" comment="" />
+    <list default="true" id="55b59870-f083-4ebe-979c-5cf519578b51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +47,7 @@
     <property name="SelectDeploymentTargetsDialog.selectedDevices" value="Nexus_4_API_26" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -131,19 +134,35 @@
       <option name="project" value="LOCAL" />
       <updated>1602151364515</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="JavaAtelier">
+      <created>1602151743814</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602151743814</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Atelier Java Embarquee" />
     <MESSAGE value="Atelier" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atelier" />
+    <MESSAGE value="JavaAtelier" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaAtelier" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="330" y="0" key="CommitChangelistDialog2" timestamp="1602151361336">
+    <state x="275" y="22" key="#Notifications" timestamp="1602152753174">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="330" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602151361336" />
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1602152753174" />
+    <state x="330" y="0" key="CommitChangelistDialog2" timestamp="1602151742054">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="330" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602151742054" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1602152896791">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602152896791" />
     <state width="727" height="178" key="GridCell.Tab.0.bottom" timestamp="1602147409576">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -160,14 +179,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="727" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602147409576" />
-    <state x="184" y="7" key="SettingsEditor" timestamp="1602076448877">
+    <state x="184" y="7" key="SettingsEditor" timestamp="1602152905803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602076448877" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602151525968">
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602152905803" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602151790269">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602151525968" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602151790269" />
     <state x="92" y="92" width="1182" height="544" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1602097547297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -176,9 +195,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1602097910035" />
+    <state x="372" y="154" key="git4idea.merge.GitPullDialog" timestamp="1602152917899">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="372" y="154" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1602152917899" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1602085510123">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602085510123" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602152790398">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602152790398" />
   </component>
 </project>
